@@ -14,7 +14,9 @@
   </a>
 </div>
 
+<a href="https://github.com/Muschimi/Muschimi/releases/latest">
 <img src="bg.png" width="77%">
+</a>
 
 </div>
 
